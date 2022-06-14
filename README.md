@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Laci2400
+- 👀 I’m interested in game coding,...
+- 🌱 I’m currently learning python ...
+- 📫 How to reach me fabianlaszlo077@gmail.com...
+
+<!---
+Laci2400/Laci2400 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
